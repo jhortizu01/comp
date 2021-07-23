@@ -1,0 +1,81 @@
+body {
+  height: 100vh;
+}
+
+
+nav {
+  border: solid green 5px;
+}
+
+main {
+  border: solid red 5px;
+  display: grid;
+  grid-template:
+  "hd hd hd hd"
+  "cd1 cd2 cd3 cd4"
+  "cd5 cd6 cd7 cd8";
+  grid-gap: 10px;
+  grid-template-rows: 10% 45% 45%;
+}
+
+.container{
+  display: grid;
+  grid-template-rows: 17% 83%;
+  border: solid blue 5px;
+  margin: 0px;
+  height: 100%;
+
+}
+
+h1 {
+  grid-area: hd;
+  border: solid black 5px;
+  height: 100%;
+  margin: 0px;
+
+}
+
+.card1{
+  grid-area: cd1;
+  border: solid purple 5px;
+  margin-left: 8%;
+
+}
+
+.card2{
+  grid-area: cd2;
+  border: solid orange 5px;
+}
+
+.card3{
+  grid-area: cd3;
+  border: solid yellow 5px;
+}
+
+.card4{
+  grid-area: cd4;
+  border: solid brown 5px;
+  margin-right: 8%;
+}
+
+.card5{
+  grid-area: cd5;
+  border: solid green 5px;
+  margin-left: 8%;
+}
+
+.card6{
+  grid-area: cd6;
+  border: solid yellow 5px;
+}
+
+.card7{
+  grid-area: cd7;
+  border: solid black 5px;
+}
+
+.card8{
+  grid-area: cd8;
+  border: solid red 5px;
+  margin-right: 8%;
+}
