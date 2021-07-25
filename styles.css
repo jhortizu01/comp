@@ -1,81 +1,115 @@
+html{
+  height: fit-content;
+  width: fit-content;
+  margin: 0px;
+  padding: 0px;
+  overflow: scroll;
+}
 body {
   height: 100vh;
+  width: 100vw;6I 
+  margin: 0px;
+  padding: 0px;
+
 }
 
 
 nav {
-  border: solid green 5px;
+  background-color: #00BCD4;
+  text-align: right;
 }
 
 main {
-  border: solid red 5px;
   display: grid;
   grid-template:
   "hd hd hd hd"
   "cd1 cd2 cd3 cd4"
   "cd5 cd6 cd7 cd8";
-  grid-gap: 10px;
-  grid-template-rows: 10% 45% 45%;
+  grid-column-gap: 15px;
+  grid-row-gap: 25px;
+  height: 100%;
+  grid-template-rows: 16% 42% 42%;
+  grid-template-columns: 25% 25% 25% 25%;
+  margin: 0px;
+  height: fit-content;
+  width: fit-content;
 }
 
 .container{
   display: grid;
-  grid-template-rows: 17% 83%;
+  grid-template-rows: 15% 85%;
   border: solid blue 5px;
   margin: 0px;
-  height: 100%;
+  padding: 0px;
+  height: 1500px;
+  width: 100%;
 
 }
 
 h1 {
   grid-area: hd;
-  border: solid black 5px;
   height: 100%;
   margin: 0px;
+  background-color: #B2EBF2;
+}
+
+
+.image {
+  width: 100%;
+  height: 40%;
+  object-fit: cover;
+}
+
+.card1,
+.card2,
+.card3,
+.card4,
+.card5,
+.card6,
+.card7,
+.card8 {
+
+  height: 350px;
+  border: solid #BDBDBD 3px;
 
 }
 
+
 .card1{
   grid-area: cd1;
-  border: solid purple 5px;
   margin-left: 8%;
-
+  margin-bottom: 20px;
 }
 
 .card2{
   grid-area: cd2;
-  border: solid orange 5px;
+
+
 }
 
 .card3{
   grid-area: cd3;
-  border: solid yellow 5px;
 }
 
 .card4{
   grid-area: cd4;
-  border: solid brown 5px;
   margin-right: 8%;
 }
 
 .card5{
   grid-area: cd5;
-  border: solid green 5px;
   margin-left: 8%;
 }
 
 .card6{
   grid-area: cd6;
-  border: solid yellow 5px;
 }
 
 .card7{
   grid-area: cd7;
-  border: solid black 5px;
 }
 
 .card8{
   grid-area: cd8;
-  border: solid red 5px;
   margin-right: 8%;
 }
