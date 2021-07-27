@@ -138,6 +138,24 @@ main {
 }
 
 /* <-----card elements-----> */
+h2 {
+  margin-left: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #FF4081;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h4 {
+  margin: 10px;
+}
+
+h5 {
+  margin: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
 .picture {
  position: relative;
  text-align: center;
@@ -177,28 +195,9 @@ main {
   font-family: 'Vibur', cursive;
 }
 
-h2 {
-  margin-left: 10px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  color: #FF4081;
-  font-family: 'Merriweather Sans', sans-serif;
-}
-
-h5 {
-  margin: 10px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
-
-h4 {
-margin: 10px;
-}
-
 .likes {
   font-size: 50px;
 }
-
 
 .image {
   width: 100%;
