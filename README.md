@@ -2,8 +2,6 @@
 
 # Mod 2 Comp
 
-
-
 ## Table of Contents
   - [Abstract](#abstract)
   - [Technologies](#technologies)
@@ -25,7 +23,7 @@ In this project we were tasked to recreate the layout of a comp in CSS, but give
 - [Click here to see the live webpage](https://jhortizu01.github.io/comp/)
 
 ## Install + Setup
-	- Fork respo
+  - Fork repo
   - Clone down to your machine
 
 ## Wins
