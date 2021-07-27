@@ -24,7 +24,7 @@ In this project we were tasked to recreate the layout of a comp in CSS, but give
 - [Click here to watch a demo](https://www.youtube.com/watch?v=q2slYeKNagI)
 - [Click here to see the live webpage](https://jhortizu01.github.io/comp/)
 
-https://www.youtube.com/watch?v=q2slYeKNagI
+
 
 ## Install + Setup
 	- Fork respo
