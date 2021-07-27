@@ -31,9 +31,6 @@ Use https://gifcap.dev/ to make GIFs
 ## Install + Setup
 	- Install instructions, how to access the website and how to use the website
   - Add this higher on the list. (Under Abstract)
--
-
-
 
 
 ## Contributors
