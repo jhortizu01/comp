@@ -1,6 +1,6 @@
 
 
-# Mod 2 + Comp
+# Mod 2 Comp
 
 
 
@@ -9,42 +9,33 @@
   - [Technologies](#technologies)
   - [Illustrations](#illustrations)
   - [Install + Setup](#set-up)
-  - [Contributors](#contributors)
 	- [Wins](#wins)
 	- [Challenges + Improvements](#challenges-+-Improvements)
   - [Project Specs](#project-specs)
 
 ## Abstract
-	In this project we were tasked to recreate the layout of a comp in CSS, but given the creative freedom to use our own colors, pictures, etc. The theme of the project is me, Janika. Not only was a comp followed, but the layout is also responsive (using media queries) and can be viewed on mobile, tablet and desktop.
+In this project we were tasked to recreate the layout of a comp in CSS, but given the creative freedom to use our own colors, pictures, etc. The theme of the project is me, Janika. Not only was a comp followed, but the layout is also responsive (using media queries) and can be viewed on mobile, tablet and desktop.
 
 ## Technologies
-  -HTML
-  -CSS
-
-
+  - HTML
+  - CSS
 
 ## Illustrations
+- [Click here to watch a demo](https://www.youtube.com/watch?v=q2slYeKNagI)
+- [Click here to see the live webpage](https://jhortizu01.github.io/comp/)
 
-Use https://gifcap.dev/ to make GIFs
 
 
 ## Install + Setup
-	- Install instructions, how to access the website and how to use the website
-  - Add this higher on the list. (Under Abstract)
-
-
-## Contributors
-  - [Hayley Dixon](https://github.com/hheyhhay)
+	- Fork respo
+  - Clone down to your machine
 
 ## Wins
-	- What went well!
-	- Successes
+	- Succesful use of media queries to create a responsive layout
+	- First time using and customizing SVGs in CSS
 
 ## Challenges + Improvements
-	- What was difficult & how you would like to improve on code/project
-	- Any Bugs
-	- Future Iterations
-
+	- Use CSS Grid to create responsive layout
 
 ## Project Specs
-  - The project spec & rubric can be found [here](insert project spec sheet here)
+  - The project spec & rubric can be found [here](https://frontend.turing.edu/projects/static-comp-challenge.html)
